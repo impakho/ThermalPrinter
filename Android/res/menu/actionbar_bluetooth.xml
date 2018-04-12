@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/refreshBleMenu"
+          android:title=""
+          android:checkable="false"
+          android:showAsAction="ifRoom" />
+    
+    <item android:id="@+id/scanBleMenu"
+        android:title="扫描设备"
+        android:showAsAction="ifRoom|withText" />
+
+    <item android:id="@+id/stopBleMenu"
+          android:title="停止扫描"
+          android:showAsAction="ifRoom|withText" />
+    
+</menu>

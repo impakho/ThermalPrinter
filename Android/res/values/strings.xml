@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">热敏打印机</string>
+    <string name="activity_name_bluetooth">连接蓝牙</string>
+    <string name="activity_name_wifi">连接WiFi</string>
+
+</resources>
